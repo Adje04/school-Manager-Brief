@@ -37,19 +37,19 @@
                 <VBox spacing="5.0">
                     <children>
                         <Label text="Firstname" textFill="WHITE" />
-                        <TextField fx:id="firstnameTextField" prefWidth="200.0" promptText="add firstname here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px; -fx-text-fill: WHITE;" />
+                        <TextField fx:id="firstnameTextField" prefWidth="200.0" promptText="add firstname here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px;" />
                     </children>
                 </VBox>
                 <VBox spacing="5.0">
                     <children>
                         <Label text="Lastname" textFill="WHITE" />
-                        <TextField fx:id="lastnameTextField" prefWidth="200.0" promptText="add lastname here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px; -fx-text-fill: WHITE;" />
+                        <TextField fx:id="lastnameTextField" prefWidth="200.0" promptText="add lastname here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px;" />
                     </children>
                 </VBox>
                 <VBox spacing="5.0">
                     <children>
                         <Label text="Date of Birth" textFill="WHITE" />
-                        <TextField fx:id="BirthDateTextField" prefWidth="200.0" promptText="dd-mm-yyyy" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px; -fx-text-fill: WHITE;" />
+                        <TextField fx:id="BirthDateTextField" prefWidth="200.0" promptText="dd-mm-yyyy" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px;" />
                     </children>
                 </VBox>
             </children>
@@ -59,19 +59,19 @@
                 <VBox spacing="5.0">
                     <children>
                         <Label text=" student Classroom" textFill="WHITE" />
-                        <TextField fx:id="studentClassTextField" promptText="add Student's class here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px; -fx-text-fill: WHITE;" />
+                        <TextField fx:id="studentClassTextField" promptText="add Student's class here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px;" />
                     </children>
                 </VBox>
                 <VBox spacing="5.0">
                     <children>
                         <Label text="Place of Birth" textFill="WHITE" />
-                        <TextField fx:id="BirthPlaceTextField" prefWidth="200.0" promptText="add place of birth" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px; -fx-text-fill: WHITE;" />
+                        <TextField fx:id="BirthPlaceTextField" prefWidth="200.0" promptText="add place of birth" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px;" />
                     </children>
                 </VBox>
                 <VBox spacing="5.0">
                     <children>
                         <Label text="State" textFill="WHITE" />
-                        <TextField fx:id="stateTextField" prefWidth="200.0" promptText="State here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px; -fx-text-fill: WHITE;" />
+                        <TextField fx:id="stateTextField" prefWidth="200.0" promptText="State here" style="-fx-background-color: transparent; -fx-border-color: linear-gradient(from 0.0% 0.0% to 100.0% 100.0%, #f7f7f7 0.0%, #0bd2ff 100.0%); -fx-border-radius: 5px;" />
                     </children>
                 </VBox>
             </children>
